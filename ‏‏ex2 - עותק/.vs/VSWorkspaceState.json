@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ex2",
+    "\\ex2\\Controllers",
+    "\\ex2\\Models",
+    "\\ex2\\Repositories",
+    "\\ex2\\Services"
+  ],
+  "SelectedNode": "\\ex2\\Repositories\\TasksRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
