@@ -1,4 +1,6 @@
-﻿using ex2.Services;
+﻿using ex1.Services;
+using ex2.Models;
+using ex2.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
@@ -28,6 +30,15 @@ namespace ex2.Controllers
         {
             return _IServiceWithAdo.getTasksbyProjectId(ProjectId);
         }
-
+        //transaction
+        [Route("api/Tasks/Transtaction_AddingTaskAndAttachment")]
+        [HttpPost]
+        public ActionResult<bool> Transtaction_AddingTaskAndAttachment([FromBody] AttachmentsAndTasks attachmentAndTask)
+        {
+            return _IServiceWithAdo.Transtaction_AddingTaskAndAttachment(attachmentAndTask);
+        }
     }
 }
+
+
+

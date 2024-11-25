@@ -4,7 +4,10 @@ using ex2.Repositories;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Runtime.CompilerServices;
 using System.Text.Json;
+using System.Threading.Tasks;
 
 namespace ex1.Repositories
 {
@@ -12,6 +15,11 @@ namespace ex1.Repositories
     {
         private string _filePath = "tasks.json";
         private readonly TasksdbContext _context;
+        string Cnn;
+        //public TasksRepository(IConfiguration configuration)
+        //{
+        //    Cnn = configuration.GetConnectionString("DefaultConnection");
+        //}
 
         public TasksRepository(TasksdbContext context)
         {
@@ -74,5 +82,42 @@ namespace ex1.Repositories
             }
             return null;
         }
+        ////transaction
+        //public bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask)
+        //{
+        //    using (SqlConnection connect = new SqlConnection(Cnn))
+        //    {
+        //        connect.Open();
+        //        SqlTransaction transaction = connect.BeginTransaction();
+        //        try
+        //        {
+        //            using (SqlCommand command1 = new SqlCommand("INSERT INTO Attachment(Route,Description,Size,EndingAttachment,AttachmentName) VALUES(@Route,@Description,@Size,@EndingAttachment,@AttachmentName)", connect, transaction))
+        //            {
+        //                command1.Parameters.AddWithValue("@Route", attachmentAndTask.attachment.Route);
+        //                command1.Parameters.AddWithValue("@Description", attachmentAndTask.attachment.Description);
+        //                command1.Parameters.AddWithValue("@Size", attachmentAndTask.attachment.Size);
+        //                command1.Parameters.AddWithValue("@EndingAttachment", attachmentAndTask.attachment.EndingAttachment);
+        //                command1.Parameters.AddWithValue("@AttachmentName", attachmentAndTask.attachment.AttachmentName);
+        //                command1.ExecuteNonQuery();
+        //            }
+        //            using (SqlCommand command2 = new SqlCommand("INSERT INTO Tasks(Priority,DueDate,Status,ProjectId,UserId) VALUES(@Priority,@DueDate,@Status,@ProjectId,@UserId)", connect, transaction))
+        //            {
+        //                command2.Parameters.AddWithValue("@Priority", attachmentAndTask.task.Priority);
+        //                command2.Parameters.AddWithValue("@DueDate", attachmentAndTask.task.DueDate);
+        //                command2.Parameters.AddWithValue("@Status", attachmentAndTask.task.Status);
+        //                command2.Parameters.AddWithValue("@ProjectId", attachmentAndTask.task.ProjectId);
+        //                command2.Parameters.AddWithValue("@UserId", attachmentAndTask.task.UserId);
+        //                command2.ExecuteNonQuery();
+        //            }
+        //            transaction.Commit();
+        //            return true;
+        //        }
+        //        catch
+        //        {
+        //            transaction.Rollback();
+        //            return false;
+        //        }
+        //    }
+        //}
     }
 }

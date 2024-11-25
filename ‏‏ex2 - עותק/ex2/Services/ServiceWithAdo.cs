@@ -1,4 +1,5 @@
 ﻿using ex1.Repositories;
+using ex2.Models;
 using ex2.Repositories;
 using System.Data;
 
@@ -23,6 +24,11 @@ namespace ex2.Services
         public DataTable getTasksbyProjectId(int ProjectId)
         {
             return _IRepositoryWithAdo.getTasksbyProjectId(ProjectId);
+        }
+        //transaction
+        public bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask)
+        {
+            return _IRepositoryWithAdo.Transtaction_AddingTaskAndAttachment(attachmentAndTask);
         }
     }
 

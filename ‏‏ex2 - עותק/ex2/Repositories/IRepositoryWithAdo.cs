@@ -1,4 +1,5 @@
 ﻿using ex1.Models;
+using ex2.Models;
 using System.Data;
 
 namespace ex2.Repositories
@@ -11,5 +12,7 @@ namespace ex2.Repositories
 
         //ADO - EX5
         DataTable getTasksbyProjectId(int ProjectId);
+        bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask);
+
     }
 }

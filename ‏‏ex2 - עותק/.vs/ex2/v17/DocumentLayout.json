@@ -1,74 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\",
+  "WorkspaceRootPath": "M:\\API5-ToGit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\repositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|m:\\api5-togit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\repositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\repositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\tasksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\controllers\\adocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\controllers\\adocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\services\\servicewithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\servicewithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\services\\iservicewithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\iservicewithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\irepositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|m:\\api5-togit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\irepositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\irepositorywithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\services\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\services\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|e:\\web-api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4BCB3866-0B1B-4D8C-AF8E-A77492BF9567}|ex2\\ex2.csproj|solutionrelative:ex2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,232 +17,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 341,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 1055,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Program.cs",
-              "RelativeDocumentMoniker": "ex2\\Program.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Program.cs",
-              "RelativeToolTip": "ex2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T15:12:13.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TasksRepository.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\TasksRepository.cs",
-              "RelativeDocumentMoniker": "ex2\\Repositories\\TasksRepository.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\TasksRepository.cs",
-              "RelativeToolTip": "ex2\\Repositories\\TasksRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwEsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:35:46.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITasksRepository.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\ITasksRepository.cs",
-              "RelativeDocumentMoniker": "ex2\\Repositories\\ITasksRepository.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\ITasksRepository.cs",
-              "RelativeToolTip": "ex2\\Repositories\\ITasksRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:06:50.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ADOController.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Controllers\\ADOController.cs",
-              "RelativeDocumentMoniker": "ex2\\Controllers\\ADOController.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Controllers\\ADOController.cs",
-              "RelativeToolTip": "ex2\\Controllers\\ADOController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:11:13.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceWithAdo.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\ServiceWithAdo.cs",
-              "RelativeDocumentMoniker": "ex2\\Services\\ServiceWithAdo.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\ServiceWithAdo.cs",
-              "RelativeToolTip": "ex2\\Services\\ServiceWithAdo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T15:04:06.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ex2\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ex2\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-17T14:31:00.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "ex2\\Models\\User.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\User.cs",
-              "RelativeToolTip": "ex2\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:35:08.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepositoryWithAdo.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\IRepositoryWithAdo.cs",
-              "RelativeDocumentMoniker": "ex2\\Repositories\\IRepositoryWithAdo.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\IRepositoryWithAdo.cs",
-              "RelativeToolTip": "ex2\\Repositories\\IRepositoryWithAdo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:06:33.835Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RepositoryWithAdo.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\RepositoryWithAdo.cs",
+              "DocumentMoniker": "M:\\API5-ToGit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\RepositoryWithAdo.cs",
               "RelativeDocumentMoniker": "ex2\\Repositories\\RepositoryWithAdo.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\RepositoryWithAdo.cs",
+              "ToolTip": "M:\\API5-ToGit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\RepositoryWithAdo.cs",
               "RelativeToolTip": "ex2\\Repositories\\RepositoryWithAdo.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwA8AAAApAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwGYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:26:21.697Z",
+              "WhenOpened": "2024-11-25T06:27:30.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TasksdbContext.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\TasksdbContext.cs",
-              "RelativeDocumentMoniker": "ex2\\Repositories\\TasksdbContext.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\TasksdbContext.cs",
-              "RelativeToolTip": "ex2\\Repositories\\TasksdbContext.cs",
+              "Title": "IRepositoryWithAdo.cs",
+              "DocumentMoniker": "M:\\API5-ToGit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\IRepositoryWithAdo.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\IRepositoryWithAdo.cs",
+              "ToolTip": "M:\\API5-ToGit\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Repositories\\IRepositoryWithAdo.cs",
+              "RelativeToolTip": "ex2\\Repositories\\IRepositoryWithAdo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T15:18:54.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TasksController.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Controllers\\TasksController.cs",
-              "RelativeDocumentMoniker": "ex2\\Controllers\\TasksController.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Controllers\\TasksController.cs",
-              "RelativeToolTip": "ex2\\Controllers\\TasksController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwEUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T18:21:42.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ITasksService.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\ITasksService.cs",
-              "RelativeDocumentMoniker": "ex2\\Services\\ITasksService.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\ITasksService.cs",
-              "RelativeToolTip": "ex2\\Services\\ITasksService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:44:10.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IServiceWithAdo.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\IServiceWithAdo.cs",
-              "RelativeDocumentMoniker": "ex2\\Services\\IServiceWithAdo.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\IServiceWithAdo.cs",
-              "RelativeToolTip": "ex2\\Services\\IServiceWithAdo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:06:30.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Tasks.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Tasks.cs",
-              "RelativeDocumentMoniker": "ex2\\Models\\Tasks.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Tasks.cs",
-              "RelativeToolTip": "ex2\\Models\\Tasks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:35:07.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Attachment.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Attachment.cs",
-              "RelativeDocumentMoniker": "ex2\\Models\\Attachment.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Attachment.cs",
-              "RelativeToolTip": "ex2\\Models\\Attachment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:48:31.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Project.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "ex2\\Models\\Project.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Models\\Project.cs",
-              "RelativeToolTip": "ex2\\Models\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:35:05.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TasksService.cs",
-              "DocumentMoniker": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\TasksService.cs",
-              "RelativeDocumentMoniker": "ex2\\Services\\TasksService.cs",
-              "ToolTip": "E:\\Web-Api\\\u05E9\u05D9\u05E2\u05D5\u05E8\u05D9 \u05D1\u05D9\u05EA \u05EA\u05E9\u05D5\u05D1\u05D5\u05EA\\ex5 -\u05DC\u05D4\u05D2\u05D9\u05E9 \u05DC\u05DE\u05D5\u05E8\u05D4-\u05DC\u05DC\u05D0 \u05D4\u05E2\u05E8\u05D5\u05EA \u05DE\u05D9\u05D5\u05EA\u05E8\u05D5\u05EA\\\u200F\u200Fex2 - \u05E2\u05D5\u05EA\u05E7\\ex2\\Services\\TasksService.cs",
-              "RelativeToolTip": "ex2\\Services\\TasksService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wC0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:44:32.475Z",
+              "WhenOpened": "2024-11-25T06:27:27.091Z",
               "EditorCaption": ""
             }
           ]

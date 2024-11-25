@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fq009v/N0RM=",
+  "dgSpecHash": "Ey9ikxKFq3A=",
   "success": true,
-  "projectFilePath": "E:\\Web-Api\\שיעורי בית תשובות\\ex5 -להגיש למורה-ללא הערות מיותרות\\‏‏ex2 - עותק\\ex2\\ex2.csproj",
+  "projectFilePath": "M:\\API5-ToGit\\‏‏ex2 - עותק\\ex2\\ex2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\328304175\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\328304175\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

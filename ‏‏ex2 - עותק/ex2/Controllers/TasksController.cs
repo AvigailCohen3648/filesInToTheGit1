@@ -68,5 +68,14 @@ namespace ex1.Controllers
         {
             return Ok(_ITaskService.GetTasksOfUserByUserName(UserName));
         }
+
+    //    [Route("api/Tasks/Transtaction_AddingTaskAndAttachment")]
+    //    //transaction
+    //    [HttpPost]
+    //    public ActionResult<bool> Transtaction_AddingTaskAndAttachment([FromBody]AttachmentsAndTasks attachmentAndTask)
+    //    {
+    //        return _ITaskService.Transtaction_AddingTaskAndAttachment(attachmentAndTask);
+    //    }
     }
 }
+

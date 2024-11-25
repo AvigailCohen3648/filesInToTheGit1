@@ -71,6 +71,43 @@ namespace ex2.Repositories
                 }
             }
             return dt;
+        } 
+        //transaction
+        public bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask)
+        {
+            using (SqlConnection connect = new SqlConnection(Cnn))
+            {
+                connect.Open();
+                SqlTransaction transaction = connect.BeginTransaction();
+                try
+                {
+                    using (SqlCommand command1 = new SqlCommand("INSERT INTO Attachments(Route,Description,Size,EndingAttachment,AttachmentName) VALUES(@Route,@Description,@Size,@EndingAttachment,@AttachmentName)", connect, transaction))
+                    {
+                        command1.Parameters.AddWithValue("@Route", attachmentAndTask.attachment.Route);
+                        command1.Parameters.AddWithValue("@Description", attachmentAndTask.attachment.Description);
+                        command1.Parameters.AddWithValue("@Size", attachmentAndTask.attachment.Size);
+                        command1.Parameters.AddWithValue("@EndingAttachment", attachmentAndTask.attachment.EndingAttachment);
+                        command1.Parameters.AddWithValue("@AttachmentName", attachmentAndTask.attachment.AttachmentName);
+                        command1.ExecuteNonQuery();
+                    }
+                    using (SqlCommand command2 = new SqlCommand("INSERT INTO Tasks(Priority,DueDate,Status,ProjectId,UserId) VALUES(@Priority,@DueDate,@Status,@ProjectId,@UserId)", connect, transaction))
+                    {
+                        command2.Parameters.AddWithValue("@Priority", attachmentAndTask.task.Priority);
+                        command2.Parameters.AddWithValue("@DueDate", attachmentAndTask.task.DueDate);
+                        command2.Parameters.AddWithValue("@Status", attachmentAndTask.task.Status);
+                        command2.Parameters.AddWithValue("@ProjectId", attachmentAndTask.task.ProjectId);
+                        command2.Parameters.AddWithValue("@UserId", attachmentAndTask.task.UserId);
+                        command2.ExecuteNonQuery();
+                    }
+                    transaction.Commit();
+                    return true;
+                }
+                catch
+                {
+                    transaction.Rollback();
+                    return false;
+                }
+            }
         }
     }
 }
