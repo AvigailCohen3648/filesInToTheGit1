@@ -6,7 +6,6 @@ namespace ex2.Services.Logger
     public class DBLoggerService: ILoggerService
     {
         private readonly ITasksRepository _TasksRepository;
-        //private readonly string _DBPath;
         public DBLoggerService(ITasksRepository tasksRepository)
         {
             _TasksRepository = tasksRepository;

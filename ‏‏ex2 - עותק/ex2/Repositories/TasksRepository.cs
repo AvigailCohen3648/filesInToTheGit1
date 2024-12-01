@@ -21,12 +21,6 @@ namespace ex1.Repositories
         private readonly TasksApi.Services.Logger.LoggerFactory _LoggerFactory;
         private  ILoggerService _logger;
 
-        //string Cnn;
-        //public TasksRepository(IConfiguration configuration)
-        //{
-        //    Cnn = configuration.GetConnectionString("DefaultConnection");
-        //}
-
         public TasksRepository(TasksdbContext context, DBLoggerService dbLoggerService, TasksApi.Services.Logger.LoggerFactory loggerFactory)
         {
             _context = context;
@@ -52,7 +46,6 @@ namespace ex1.Repositories
             if(isExistUser!=null && isExistProject!=null){
                 _context.Tasks.Add(Task);
                 _context.SaveChanges();
-                //_DBLoggerService.GetLogger(1);// GetLogger
                 _logger = _LoggerFactory.GetLogger(1);//שליחה 1=כתיבת לכונסול 2=לקובץ 3=למסד נתונים
                 _logger.Log("המשימה נוספה בהצלחה");
                 return Task;
