@@ -11,10 +11,6 @@ namespace ex2.Services.Logger
         {
             _TasksRepository = tasksRepository;
         }
-        //public DBLoggerService(string dbPath)
-        //{
-        //    _DBPath = dbPath;
-        //}
 
         public void Log(string message)
         {
