@@ -13,5 +13,6 @@ namespace ex1.Repositories
         List<Tasks> GetTasksOfUserByUserName(string UserName);
         //transaction
         //bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask);
+        void logIntoDB(string message);
     }
 }

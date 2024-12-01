@@ -1,6 +1,7 @@
 ﻿using ex1.Models;
 using ex2.Models;
 using ex2.Repositories;
+using ex2.Services.Logger;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
@@ -8,6 +9,7 @@ using System.Data.SqlClient;
 using System.Runtime.CompilerServices;
 using System.Text.Json;
 using System.Threading.Tasks;
+using TasksApi.Services.Logger;
 
 namespace ex1.Repositories
 {
@@ -15,15 +17,21 @@ namespace ex1.Repositories
     {
         private string _filePath = "tasks.json";
         private readonly TasksdbContext _context;
-        string Cnn;
+        private readonly DBLoggerService _DBLoggerService;
+        private readonly TasksApi.Services.Logger.LoggerFactory _LoggerFactory;
+        private  ILoggerService _logger;
+
+        //string Cnn;
         //public TasksRepository(IConfiguration configuration)
         //{
         //    Cnn = configuration.GetConnectionString("DefaultConnection");
         //}
 
-        public TasksRepository(TasksdbContext context)
+        public TasksRepository(TasksdbContext context, DBLoggerService dbLoggerService, TasksApi.Services.Logger.LoggerFactory loggerFactory)
         {
             _context = context;
+            _DBLoggerService = dbLoggerService;
+            _LoggerFactory = loggerFactory;
         }
 
         public List<Tasks> GetAllTasks()
@@ -44,10 +52,20 @@ namespace ex1.Repositories
             if(isExistUser!=null && isExistProject!=null){
                 _context.Tasks.Add(Task);
                 _context.SaveChanges();
+                //_DBLoggerService.GetLogger(1);// GetLogger
+                _logger = _LoggerFactory.GetLogger(1);//שליחה 1=כתיבת לכונסול 2=לקובץ 3=למסד נתונים
+                _logger.Log("המשימה נוספה בהצלחה");
                 return Task;
             }
             else
                 return null;
+        }
+        public void logIntoDB(string message)
+        {
+            Messages newMassage= new Messages();
+            newMassage.Description = message;
+            newMassage.Update_Date = DateTime.Now;
+            _context.Messages.Add(newMassage);
         }
         public void DeleteTaskById(int id)
         {
@@ -82,42 +100,5 @@ namespace ex1.Repositories
             }
             return null;
         }
-        ////transaction
-        //public bool Transtaction_AddingTaskAndAttachment(AttachmentsAndTasks attachmentAndTask)
-        //{
-        //    using (SqlConnection connect = new SqlConnection(Cnn))
-        //    {
-        //        connect.Open();
-        //        SqlTransaction transaction = connect.BeginTransaction();
-        //        try
-        //        {
-        //            using (SqlCommand command1 = new SqlCommand("INSERT INTO Attachment(Route,Description,Size,EndingAttachment,AttachmentName) VALUES(@Route,@Description,@Size,@EndingAttachment,@AttachmentName)", connect, transaction))
-        //            {
-        //                command1.Parameters.AddWithValue("@Route", attachmentAndTask.attachment.Route);
-        //                command1.Parameters.AddWithValue("@Description", attachmentAndTask.attachment.Description);
-        //                command1.Parameters.AddWithValue("@Size", attachmentAndTask.attachment.Size);
-        //                command1.Parameters.AddWithValue("@EndingAttachment", attachmentAndTask.attachment.EndingAttachment);
-        //                command1.Parameters.AddWithValue("@AttachmentName", attachmentAndTask.attachment.AttachmentName);
-        //                command1.ExecuteNonQuery();
-        //            }
-        //            using (SqlCommand command2 = new SqlCommand("INSERT INTO Tasks(Priority,DueDate,Status,ProjectId,UserId) VALUES(@Priority,@DueDate,@Status,@ProjectId,@UserId)", connect, transaction))
-        //            {
-        //                command2.Parameters.AddWithValue("@Priority", attachmentAndTask.task.Priority);
-        //                command2.Parameters.AddWithValue("@DueDate", attachmentAndTask.task.DueDate);
-        //                command2.Parameters.AddWithValue("@Status", attachmentAndTask.task.Status);
-        //                command2.Parameters.AddWithValue("@ProjectId", attachmentAndTask.task.ProjectId);
-        //                command2.Parameters.AddWithValue("@UserId", attachmentAndTask.task.UserId);
-        //                command2.ExecuteNonQuery();
-        //            }
-        //            transaction.Commit();
-        //            return true;
-        //        }
-        //        catch
-        //        {
-        //            transaction.Rollback();
-        //            return false;
-        //        }
-        //    }
-        //}
     }
 }

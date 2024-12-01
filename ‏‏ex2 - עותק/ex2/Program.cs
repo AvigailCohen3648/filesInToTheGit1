@@ -2,8 +2,10 @@ using ex1.Repositories;
 using ex1.Services;
 using ex2.Repositories;
 using ex2.Services;
+using ex2.Services.Logger;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using TasksApi.Services.Logger;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +18,15 @@ builder.Services.AddScoped<ITasksService, TasksService>();
 builder.Services.AddScoped<IRepositoryWithAdo, RepositoryWithAdo>();
 builder.Services.AddScoped<IServiceWithAdo, ServiceWithAdo>();
 
+builder.Services.AddScoped<ILoggerService, ConsoleLoggerService>();
+
+builder.Services.AddScoped<DBLoggerService>();
+
+builder.Services.AddScoped<FileLoggerService>(provider =>
+    new FileLoggerService("E:\\Web-Api\\hw-text1.txt")
+);
+
+builder.Services.AddScoped<TasksApi.Services.Logger.LoggerFactory>();
 
 builder.Services.AddDbContext<TasksdbContext>(options =>
   options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))

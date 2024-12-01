@@ -14,5 +14,6 @@ namespace ex2.Repositories
         public DbSet<Tasks> Tasks { get; set; }
         public DbSet<Project> Projects { get; set; }
         public DbSet<User> Users { get; set; }
+        public DbSet<Messages> Messages { get; set; }
     }
 }

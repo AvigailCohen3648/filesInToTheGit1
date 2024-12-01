@@ -28,6 +28,7 @@ namespace ex1.Services
         {
             return _ITasksRepository.CreateNewTask(newTask);
         }
+
          public void DeleteTaskById(int id)
         {
             _ITasksRepository.DeleteTaskById(id);
