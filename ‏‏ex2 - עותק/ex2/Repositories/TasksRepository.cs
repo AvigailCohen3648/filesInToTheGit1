@@ -17,14 +17,12 @@ namespace ex1.Repositories
     {
         private string _filePath = "tasks.json";
         private readonly TasksdbContext _context;
-        private readonly DBLoggerService _DBLoggerService;
         private readonly TasksApi.Services.Logger.LoggerFactory _LoggerFactory;
         private  ILoggerService _logger;
 
-        public TasksRepository(TasksdbContext context, DBLoggerService dbLoggerService, TasksApi.Services.Logger.LoggerFactory loggerFactory)
+        public TasksRepository(TasksdbContext context, TasksApi.Services.Logger.LoggerFactory loggerFactory)
         {
             _context = context;
-            _DBLoggerService = dbLoggerService;
             _LoggerFactory = loggerFactory;
         }
 
@@ -59,6 +57,7 @@ namespace ex1.Repositories
             newMassage.Description = message;
             newMassage.Update_Date = DateTime.Now;
             _context.Messages.Add(newMassage);
+            _context.SaveChanges();
         }
         public void DeleteTaskById(int id)
         {
